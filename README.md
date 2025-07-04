@@ -1,2 +1,2 @@
-im just a simple person # what-s-up-
+ # what-s-up- I'm charles
 My first repository in GitHub 
